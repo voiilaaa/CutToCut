@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f59f7e</color>
+    <color name="colorPrimaryDark">#f59f7e</color>
+    <color name="colorAccent">#f59f7e</color>
+
+    // TODO: 22/02/18
+    <color name="colorNavigationIcon">#dae9f6</color>
+    <color name="colorNavigationText">#ffffff</color>
+    <color name="abuabu">#696969</color>
+</resources>

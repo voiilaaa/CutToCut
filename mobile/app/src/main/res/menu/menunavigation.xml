@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/home_menu"
+        android:title="@string/home"
+        android:icon="@drawable/ic_action_home"/>
+
+    <item
+        android:id="@+id/service_menu"
+        android:title="@string/service"
+        android:icon="@drawable/ic_action_service"/>
+
+    <item
+        android:id="@+id/style_menu"
+        android:title="@string/style"
+        android:icon="@drawable/ic_action_style"/>
+    <item
+        android:id="@+id/address_menu"
+        android:title="@string/address"
+        android:icon="@drawable/ic_action_address"/>
+    <item
+        android:id="@+id/booking_menu"
+        android:title="@string/booking"
+        android:icon="@drawable/ic_action_booking"/>
+
+</menu>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Cuts</string>
+
+    <string name="home">HOME</string>
+    <string name="service">SERVICE</string>
+    <string name="style">STYLE</string>
+    <string name="address">ADDRESS</string>
+    <string name="booking">BOOKING</string>
+    <string name="about">Barbershop telah lama menjadi tempat yang tepat bagi pria untuk pergi dan menikmati releksasi dimanjakan nya bagian kepala. Dengan itu berdirilah <b>Cut to Cut barbershop</b>. Berdiri sejak tahun 2019 tepat nya di Jakarta. visi kami adalah "Good Hair, Good Attitude" dengan para pelayan yang profesional dibidang nya ,peralatan yang lengkap bersih dan terawat dengan baik ,kami siap jadi yang terbaik di antara barbershop lain karena kami yakin dimana ada kemauan disitu ada jalan. pepatah berkata "Kalau ada sumur diladang, boleh kita menumpang mandi, kalo dalem mendingan jangan mandi"</string>
+    <string name="judulAbout"><u>ABOUT</u></string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    
+    <string-array name="serviceValue">
+        <item><b>Service</b></item>
+        <item>Haircut</item>
+        <item>Trimming</item>
+        <item>Shaving</item>
+        <item>Coloring</item>
+    </string-array>
+
+    <string-array name="waktuValue">
+        <item><b>Waktu</b></item>
+        <item>09.00</item>
+        <item>10.00</item>
+        <item>11.00</item>
+        <item>12.00</item>
+        <item>13.00</item>
+        <item>14.00</item>
+        <item>15.00</item>
+        <item>16.00</item>
+        <item>17.00</item>
+        <item>18.00</item>
+        <item>19.00</item>
+        <item>20.00</item>
+        <item>21.00</item>
+    </string-array>
+</resources>

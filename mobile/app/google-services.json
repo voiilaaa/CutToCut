@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "456997848282",
+    "firebase_url": "https://cukur-245203.firebaseio.com",
+    "project_id": "cukur-245203",
+    "storage_bucket": "cukur-245203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456997848282:android:435837aedfa8e8ff",
+        "android_client_info": {
+          "package_name": "com.brayenprayoga.barbershop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456997848282-llke3dn9tqbuq2qudi9258eajejm67ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brayenprayoga.barbershop",
+            "certificate_hash": "35f85b982c8a6ed6abc1dcc5bcc0f76464138b35"
+          }
+        },
+        {
+          "client_id": "456997848282-d7acnvffa5vqva6d7tub8tsneqjkjjn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoanneFfax7xqQEZL3e80L_SXGegDQZ58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456997848282-d7acnvffa5vqva6d7tub8tsneqjkjjn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
